@@ -36,7 +36,9 @@
 </div>
 
 
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=80&section=footer&fontSize=90)
