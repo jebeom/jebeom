@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=80&section=header&fontSize=90)  
-### Hi there 👋 this is jebeom
+### Hi there 👋 This is jebeom
 
 ### 🌱 Education  
 > 🟢 **B.S in Mechanical & Aerospace Engineering** from Konkuk University, Seoul, South Korea (2019.3 ~ Present)  
