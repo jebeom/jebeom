@@ -7,7 +7,6 @@
 ### :blue_book: Reasearch Interest 
 
 > 🔵 **Path Planning** - Learning-based Planning, Sampling-based Planning    
-> 🔵 **SLAM** - Lidar SLAM, Lidar-inertial odometry    
 > 🔵 **Machine Learning** - Online RL, Imitation Learning
 
 ### 🚀 Careers
