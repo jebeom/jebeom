@@ -18,7 +18,7 @@
 ### 👀 My Learning log
 <div align=left>
 
-[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/jebeom/Jebeom_CV)
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/jebeom/Jebeom_CV/blob/main/Jebeom_CV.pdf)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://jebeom.github.io/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://jebeom.notion.site/PORTFOLIO-64bbb7bf4a1d4988a229aca639268436?pvs=74)](https://jebeom.notion.site/PORTFOLIO-64bbb7bf4a1d4988a229aca639268436?pvs=74)
 </div>
