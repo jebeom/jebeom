@@ -4,9 +4,10 @@
 ### 🌱 Education  
 > 🟢 **B.S in Mechanical & Aerospace Engineering** from Konkuk University, Seoul, South Korea (2019.3 ~ Present)  
 
-### :blue_book: Reasearch Interest  
-> 🔵 **Path Planning** - Learning-based Planning, Sampling-based Planning
-> 🔵 **SLAM** - Lidar SLAM, Lidar-inertial odometry  
+### :blue_book: Reasearch Interest 
+
+> 🔵 **Path Planning** - Learning-based Planning, Sampling-based Planning    
+> 🔵 **SLAM** - Lidar SLAM, Lidar-inertial odometry    
 > 🔵 **Machine Learning** - Online RL, Imitation Learning
 
 ### 🚀 Careers
